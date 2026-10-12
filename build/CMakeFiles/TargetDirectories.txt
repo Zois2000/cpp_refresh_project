@@ -1,0 +1,3 @@
+/home/andi/Projekte/cpp_refresh_project/build/CMakeFiles/chapter01.dir
+/home/andi/Projekte/cpp_refresh_project/build/CMakeFiles/edit_cache.dir
+/home/andi/Projekte/cpp_refresh_project/build/CMakeFiles/rebuild_cache.dir
