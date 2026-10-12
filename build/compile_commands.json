@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/andi/Projekte/cpp_refresh_project/build",
+  "command": "/usr/bin/c++   -std=c++23 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -o CMakeFiles/chapter01.dir/01-basics/main.cpp.o -c /home/andi/Projekte/cpp_refresh_project/01-basics/main.cpp",
+  "file": "/home/andi/Projekte/cpp_refresh_project/01-basics/main.cpp",
+  "output": "CMakeFiles/chapter01.dir/01-basics/main.cpp.o"
+},
+{
+  "directory": "/home/andi/Projekte/cpp_refresh_project/build",
+  "command": "/usr/bin/c++   -std=c++23 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -o CMakeFiles/chapter01.dir/01-basics/exercise-01.cpp.o -c /home/andi/Projekte/cpp_refresh_project/01-basics/exercise-01.cpp",
+  "file": "/home/andi/Projekte/cpp_refresh_project/01-basics/exercise-01.cpp",
+  "output": "CMakeFiles/chapter01.dir/01-basics/exercise-01.cpp.o"
+},
+{
+  "directory": "/home/andi/Projekte/cpp_refresh_project/build",
+  "command": "/usr/bin/c++   -std=c++23 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -o CMakeFiles/chapter01.dir/01-basics/exercise-02.cpp.o -c /home/andi/Projekte/cpp_refresh_project/01-basics/exercise-02.cpp",
+  "file": "/home/andi/Projekte/cpp_refresh_project/01-basics/exercise-02.cpp",
+  "output": "CMakeFiles/chapter01.dir/01-basics/exercise-02.cpp.o"
+},
+{
+  "directory": "/home/andi/Projekte/cpp_refresh_project/build",
+  "command": "/usr/bin/c++   -std=c++23 -Wall -Wextra -Wpedantic -Wconversion -Wsign-conversion -Wshadow -o CMakeFiles/chapter01.dir/01-basics/exercise-03.cpp.o -c /home/andi/Projekte/cpp_refresh_project/01-basics/exercise-03.cpp",
+  "file": "/home/andi/Projekte/cpp_refresh_project/01-basics/exercise-03.cpp",
+  "output": "CMakeFiles/chapter01.dir/01-basics/exercise-03.cpp.o"
+}
+]
